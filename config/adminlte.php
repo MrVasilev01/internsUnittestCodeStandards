@@ -321,7 +321,7 @@ return [
         [
             'text' => 'Create New Car',
             'icon' => 'fas fa-fw fa-car',
-            'url' => '/admin/car/createcar'
+            'url' => '/admin/car/create'
         ]
     ],
 
